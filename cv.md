@@ -9,10 +9,9 @@
 ---
 ##  About Me
  
-I am 27 years old. I work as a teacher of mathematics and computer science in grades 10-11. I also work as trainers at IT Academy, teach programming courses in Minecraft and Python. 
+I am 28 years old. I work as a teacher of mathematics and computer science in grades 10-11. I also work as trainers at IT Academy, teach programming courses in Minecraft and Python. 
 I love listening to music and good tea.
 * My strengths: 
-   + purposeful student.
    + I'm not afraid of difficult situations.
    + I love to learn and develop. 
    + My goal is to start a career as a frontend developer.
